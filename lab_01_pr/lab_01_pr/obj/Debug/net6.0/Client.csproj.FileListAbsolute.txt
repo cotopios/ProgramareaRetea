@@ -1,0 +1,15 @@
+C:\Users\37360\Desktop\University\pr\lab_01_pr\lab_01_pr\bin\Debug\net6.0\Client.exe
+C:\Users\37360\Desktop\University\pr\lab_01_pr\lab_01_pr\bin\Debug\net6.0\Client.deps.json
+C:\Users\37360\Desktop\University\pr\lab_01_pr\lab_01_pr\bin\Debug\net6.0\Client.runtimeconfig.json
+C:\Users\37360\Desktop\University\pr\lab_01_pr\lab_01_pr\bin\Debug\net6.0\Client.dll
+C:\Users\37360\Desktop\University\pr\lab_01_pr\lab_01_pr\bin\Debug\net6.0\Client.pdb
+C:\Users\37360\Desktop\University\pr\lab_01_pr\lab_01_pr\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+C:\Users\37360\Desktop\University\pr\lab_01_pr\lab_01_pr\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37360\Desktop\University\pr\lab_01_pr\lab_01_pr\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+C:\Users\37360\Desktop\University\pr\lab_01_pr\lab_01_pr\obj\Debug\net6.0\Client.AssemblyInfo.cs
+C:\Users\37360\Desktop\University\pr\lab_01_pr\lab_01_pr\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\37360\Desktop\University\pr\lab_01_pr\lab_01_pr\obj\Debug\net6.0\Client.dll
+C:\Users\37360\Desktop\University\pr\lab_01_pr\lab_01_pr\obj\Debug\net6.0\refint\Client.dll
+C:\Users\37360\Desktop\University\pr\lab_01_pr\lab_01_pr\obj\Debug\net6.0\Client.pdb
+C:\Users\37360\Desktop\University\pr\lab_01_pr\lab_01_pr\obj\Debug\net6.0\Client.genruntimeconfig.cache
+C:\Users\37360\Desktop\University\pr\lab_01_pr\lab_01_pr\obj\Debug\net6.0\ref\Client.dll
